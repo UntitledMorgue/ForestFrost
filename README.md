@@ -1,5 +1,6 @@
 # Forest Frost
 Forest Frost is a Forest-based Discord Theme that's more on the roundy side.
+[Support Server](https://discord.gg/kQzTKSaaM8)
 # Developers
 [4n4](https://discord.com/users/812815155288473630/)
 # Extra Credits
