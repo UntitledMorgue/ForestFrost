@@ -7,7 +7,7 @@ Forest Frost is a Forest-based Discord Theme that's more on the roundy side.<br 
 ```SHELL
 cd powercord/src/Powercord/themes && git clone https://github.com/4n4hits/ForestFrost
 ```
-**Install with BetterDiscord<br />
+**Install with BetterDiscord**<br />
 *Add the following file into your BetterDiscord Themes folder.*<br />
 [Download File](https://cdn.discordapp.com/attachments/848211132246261760/848212485743575070/ForestFrost.theme.css)
 # Developers
